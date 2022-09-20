@@ -6,8 +6,8 @@ This is the source code for the prototype of automatic planting and watering sys
 
 **Library:**
 
-pip install opencv-python
+py -m pip install opencv-python
 
-pip install matplotlib
+py -m pip install matplotlib
 
-pip3 install pyrebase4
+py -m pip3 install pyrebase4
