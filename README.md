@@ -6,4 +6,5 @@ This is the source code for the prototype of automatic planting and watering sys
 
 Library:
 pip install opencv-python
+
 pip install matplotlib
