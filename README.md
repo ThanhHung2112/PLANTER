@@ -10,4 +10,4 @@ pip install opencv-python
 
 pip install matplotlib
 
-pip install pyrebase
+pip3 install pyrebase4
