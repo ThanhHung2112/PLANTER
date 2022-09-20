@@ -1,7 +1,7 @@
 from time import sleep
 import cv2
 import numpy as np
-import time
+# import time
 import matplotlib.pyplot as plt
 from Counting_leaves import Count_leaves
 from Counting_leaves import Mask
@@ -9,8 +9,8 @@ from send_firebase import Create_data
 from send_firebase import Push_data
 plt.figure(figsize=[5,5])
 
-cap = cv2.VideoCapture('http://192.168.137.8:81/stream')
-# cap = cv2.VideoCapture(0)   
+# cap = cv2.VideoCapture('http://192.168.137.8:81/stream')
+cap = cv2.VideoCapture(0)   
 
 list = []
 
