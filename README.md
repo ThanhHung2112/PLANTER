@@ -4,10 +4,12 @@
 
 This is the source code for the prototype of automatic planting and watering system 
 
+Counting leaves by using image processing with ESP32-CAM
+
 **Library:**
 
-py -m pip install opencv-python
+pip install opencv-python
 
-py -m pip install matplotlib
+pip install matplotlib
 
-py -m pip install pyrebase4
+pip install pyrebase4
