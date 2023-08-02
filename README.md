@@ -7,8 +7,10 @@ This is the source code for the prototype of automatic planting and watering sys
 **install:**
 ```bash
 py -m pip install opencv-python
-
+```
+```
 py -m pip install matplotlib
-
+```
+```
 py -m pip install pyrebase
 ```
