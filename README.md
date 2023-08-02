@@ -14,3 +14,12 @@ py -m pip install matplotlib
 ```
 py -m pip install pyrebase
 ```
+
+## Have 🍃
+https://github.com/ThanhHung2112/PLANTER/assets/73764342/7e86588f-0876-4c20-b525-c0c176ae3e89
+
+## Don't have 🍃
+https://github.com/ThanhHung2112/PLANTER/assets/73764342/805c2cc9-0b0c-4757-bf73-38ade1f3f348
+
+
+
