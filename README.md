@@ -19,8 +19,6 @@ py -m pip install pyrebase
 
 ![overview](https://github.com/ThanhHung2112/PLANTER/assets/73764342/56dfd912-54d2-4afe-be48-285d34418c87)
 
-![watering](https://github.com/ThanhHung2112/PLANTER/assets/73764342/e0ecdfd2-af01-4cb7-bbdb-bcccd20ed340)
-
 ## Have 🍃
 https://github.com/ThanhHung2112/PLANTER/assets/73764342/7e86588f-0876-4c20-b525-c0c176ae3e89
 
