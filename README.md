@@ -4,7 +4,7 @@
 
 This is the source code for the prototype of automatic planting and watering system 
 
-**install:**
+## Install
 ```bash
 py -m pip install opencv-python
 ```
@@ -14,6 +14,9 @@ py -m pip install matplotlib
 ```
 py -m pip install pyrebase
 ```
+## Overview
+
+![overview](https://github.com/ThanhHung2112/PLANTER/assets/73764342/56dfd912-54d2-4afe-be48-285d34418c87)
 
 ## Have 🍃
 https://github.com/ThanhHung2112/PLANTER/assets/73764342/7e86588f-0876-4c20-b525-c0c176ae3e89
